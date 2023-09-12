@@ -1,4 +1,4 @@
-# **Stock price prediction using LSTM**
+# **Stock Price Prediction using LSTM**
 #### **Video Demo**:  <https://www.youtube.com/watch?v=9uYAjFp43rU>
 #### **Introduction**:
 
